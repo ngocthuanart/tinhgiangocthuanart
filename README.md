@@ -1,2 +1,0 @@
-# tinhgiangocthuanart
-Tính giá NGOCTHUANART
